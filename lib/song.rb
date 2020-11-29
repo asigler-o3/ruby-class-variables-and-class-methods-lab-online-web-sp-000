@@ -17,7 +17,7 @@ class Song
     @@count
   end
 
-  def artists
+  def artists(artist)
     
   end
 
